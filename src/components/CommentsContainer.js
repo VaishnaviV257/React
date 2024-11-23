@@ -2,7 +2,7 @@ import React from 'react';
 
 const commentsData=[
     {
-        name:"Vaishnavi Velagapudi",
+        name:"Har Velagapudi",
         text:"This video is so Beautiful",
         reply:[
         ]
